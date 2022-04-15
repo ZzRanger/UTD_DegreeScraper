@@ -1,0 +1,263 @@
+{
+  "name": "Bachelor of Science in Cognitive Science",
+  "abbreviation": "Cognitive Science (BS)",
+  "minimum_credit_hours": "120",
+  "subtype": "major",
+  "requirements": [
+    {
+      "type": "collection",
+      "name": "I. Core Curriculum Requirements: 42 semester credit hours2",
+      "required": 16,
+      "options": [
+        { "type": "course", "class_reference": "COMM 1311" },
+        { "type": "course", "class_reference": "COMM 1315" },
+        { "type": "course", "class_reference": "RHET 1302" },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Or select any 6 semester credit hours from Communication Core courses (see advisor)"
+        },
+        {
+          "name": "Choose one",
+          "type": "collection",
+          "required": 2,
+          "courses": [
+            { "type": "course", "class_reference": "MATH 2417" },
+            { "type": "course", "class_reference": "MATH 2413" }
+          ]
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Or select any 3 semester credit hours from Mathematics Core courses (see advisor)"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 6 semester credit hours from Life and Physical Sciences Core courses (see CGS advisor)"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 3 semester credit hours from Language, Philosophy and Culture Core courses"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 3 semester credit hours from Creative Arts Core courses"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 6 semester credit hours from American History Core courses"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 6 semester credit hours from Government/Political Science Core courses"
+        },
+        { "type": "course", "class_reference": "PSY 2301" },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Or select any 3 semester credit hours from Social and Behavioral Sciences Core courses (see advisor)"
+        },
+        {
+          "name": "Choose one",
+          "type": "collection",
+          "required": 2,
+          "courses": [
+            { "type": "course", "class_reference": "MATH 2419" },
+            { "type": "course", "class_reference": "MATH 2414" }
+          ]
+        },
+        { "type": "course", "class_reference": "CGS 2301" },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Or select any 6 semester credit hours from Component Area Option Core courses (see advisor)"
+        }
+      ]
+    },
+    {
+      "type": "collection",
+      "name": "II. Major Requirements: 48-54 semester credit hours (12 semester credit hours beyond Core Curriculum)",
+      "required": 28,
+      "options": [
+        {
+          "name": "The following are required for all concentration areas: (24 semester credit hours)",
+          "type": "collection",
+          "required": 0,
+          "courses": [
+            { "type": "course", "class_reference": "CGS 2301" },
+            { "type": "course", "class_reference": "CS 1337" },
+            { "type": "course", "class_reference": "MATH 2417" },
+            {
+              "type": "other",
+              "description": "or MATH 2413 Differential Calculus3"
+            }
+          ]
+        },
+        {
+          "name": "Choose one",
+          "type": "collection",
+          "required": 2,
+          "courses": [
+            { "type": "course", "class_reference": "MATH 2419" },
+            { "type": "course", "class_reference": "MATH 2414" }
+          ]
+        },
+        { "type": "course", "class_reference": "MATH 2418" },
+        { "type": "course", "class_reference": "PSY 2301" },
+        {
+          "name": "Choose one",
+          "type": "collection",
+          "required": 2,
+          "courses": [
+            { "type": "course", "class_reference": "PSY 2317" },
+            { "type": "course", "class_reference": "CS 3341" }
+          ]
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Additional Preparatory Courses for AI/Computational Modeling Area (6 semester credit hours)"
+        },
+        {
+          "type": "other",
+          "description": "The courses listed below are not required for all students specializing in the AI/Computational Modeling area but are prerequisites for some courses in this area."
+        },
+        { "type": "course", "class_reference": "CS 2305" },
+        { "type": "course", "class_reference": "CS 2336" },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Additional Preparatory Courses for Neuroscience Area (21 semester credit hours)"
+        },
+        {
+          "type": "other",
+          "description": "The courses listed below are not required for all students specializing in the Neuroscience area but are prerequisites for some courses in this area."
+        },
+        { "type": "course", "class_reference": "BIOL 2111" },
+        { "type": "course", "class_reference": "BIOL 2281" },
+        { "type": "course", "class_reference": "BIOL 2311" },
+        { "type": "course", "class_reference": "CHEM 1111" },
+        { "type": "course", "class_reference": "CHEM 1311" },
+        { "type": "course", "class_reference": "CHEM 1112" },
+        { "type": "course", "class_reference": "CHEM 1312" },
+        { "type": "course", "class_reference": "CGS 3361" },
+        { "type": "course", "class_reference": "NSC 3361" },
+        { "type": "course", "class_reference": "PSY 3392" },
+        {
+          "name": "Choose one",
+          "type": "collection",
+          "required": 2,
+          "courses": [
+            { "type": "course", "class_reference": "CGS 3340" },
+            { "type": "course", "class_reference": "PSY 3393" }
+          ]
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Select 4 courses each from 2 of the following 3 Concentration Areas:"
+        },
+        {
+          "type": "other",
+          "description": "Core Courses for Psychology/HCI Concentration Area"
+        },
+        {
+          "name": "Select 12 semester credit hours from the list of courses below:",
+          "type": "collection",
+          "required": 4.0,
+          "courses": [
+            { "type": "course", "class_reference": "CGS 3325" },
+            { "type": "course", "class_reference": "CGS 4359" },
+            { "type": "course", "class_reference": "CGS 4362" },
+            { "type": "course", "class_reference": "CGS 4352" },
+            { "type": "course", "class_reference": "CGS 4353" },
+            { "type": "course", "class_reference": "PSY 3331" },
+            { "type": "course", "class_reference": "PSY 4343" },
+            { "type": "course", "class_reference": "PSY 2314" },
+            { "type": "course", "class_reference": "PSY 3310" },
+            { "type": "course", "class_reference": "PSY 3362" },
+            { "type": "course", "class_reference": "PSY 3339" },
+            { "type": "course", "class_reference": "PSY 4364" },
+            { "type": "course", "class_reference": "NSC 4385" },
+            { "type": "course", "class_reference": "CGS 4320" }
+          ]
+        },
+        {
+          "name": "Select 12 semester credit hours from the list of courses below:",
+          "type": "collection",
+          "required": 4.0,
+          "courses": [
+            { "type": "course", "class_reference": "NSC 4352" },
+            { "type": "course", "class_reference": "NSC 4354" },
+            { "type": "course", "class_reference": "NSC 4356" },
+            { "type": "course", "class_reference": "NSC 4366" },
+            { "type": "course", "class_reference": "NSC 4363" },
+            { "type": "course", "class_reference": "NSC 4367" },
+            { "type": "course", "class_reference": "NSC 4359" },
+            { "type": "course", "class_reference": "NSC 4353" },
+            { "type": "course", "class_reference": "NSC 4357" },
+            { "type": "course", "class_reference": "NSC 4362" },
+            { "type": "course", "class_reference": "NSC 4371" },
+            { "type": "course", "class_reference": "NSC 4373" },
+            { "type": "course", "class_reference": "NSC 4385" },
+            { "type": "course", "class_reference": "NSC 4351" },
+            { "type": "course", "class_reference": "NSC 4358" },
+            { "type": "course", "class_reference": "NSC 4372" },
+            { "type": "course", "class_reference": "NSC 4350" }
+          ]
+        },
+        {
+          "type": "other",
+          "description": "Core Courses required for Intelligent Systems (AI)/Computational Modeling Concentration Area"
+        },
+        {
+          "name": "Select 12 semester credit hours from the list of courses below:",
+          "type": "collection",
+          "required": 4.0,
+          "courses": [
+            { "type": "course", "class_reference": "CS 3341" },
+            { "type": "course", "class_reference": "CGS 3342" },
+            { "type": "course", "class_reference": "CGS 4314" },
+            { "type": "course", "class_reference": "CGS 4315" },
+            { "type": "course", "class_reference": "CS 3345" },
+            { "type": "course", "class_reference": "CS 4365" },
+            { "type": "course", "class_reference": "CS 4375" },
+            { "type": "course", "class_reference": "CS 4391" },
+            { "type": "course", "class_reference": "CS 4395" },
+            { "type": "course", "class_reference": "CS 4372" },
+            { "type": "course", "class_reference": "CGS 4352" },
+            { "type": "course", "class_reference": "CGS 4353" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "collection",
+      "name": "III. Elective Requirements: 24-30 semester credit hours",
+      "required": 4,
+      "options": [
+        { "type": "other", "description": "Free Electives: " },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "24 semester credit hours for Intelligent Systems (AI)/Computational Modeling Concentration Area"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "30 semester credit hours for the other two concentrations"
+        },
+        {
+          "type": "other",
+          "required": 0,
+          "description": "Students are encouraged to explore areas of concentration in Cognitive Science, Psychology, and Neuroscience as well as explore interests outside the field. Be aware that at least 51 semester credit hours of upper-division semester credit hours are required for graduation. In addition, advanced CGS students in good academic standing may request permission from the Cognitive Science Program Head to take graduate Applied Cognition and Neuroscience coursework (ACN prefix) to fulfill some of the elective course requirements."
+        }
+      ]
+    }
+  ]
+}
